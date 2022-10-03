@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+./neo4j-graphql-server/node_modules
+./neo4j-graphql-client/node_modules
+./neo4j-database-cluster/neo4j
+
 # testing
 /coverage
 
